@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\Diego\\\\Desktop\\\\Página WEB - Respaldo\\\\assets\" /b /s)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}

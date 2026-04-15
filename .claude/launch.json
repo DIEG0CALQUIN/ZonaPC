@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ZonaPC Backend",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["backend/server.js"],
+      "port": 3000,
+      "autoPort": false
+    },
+    {
+      "name": "ZonaPC Frontend",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "3001", "."],
+      "port": 3001,
+      "autoPort": false
+    }
+  ]
+}

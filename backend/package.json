@@ -1,0 +1,9 @@
+{
+  "name": "zonapc-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend local para ZonaPC",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
